@@ -1,0 +1,12 @@
+main img {
+    width: 350px;
+    height: 400px;
+}
+
+.img-rena {
+    display: inline-block;
+}
+
+.anketa-rena {
+    display: inline-block;
+}
